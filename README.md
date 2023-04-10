@@ -24,4 +24,4 @@ Nous utilisons deux fonctions couts différentes afin d'obtenir de meilleur rés
 La première fonction de cout est la MSE loss (pour obtenir ds images plus proches de la réalité), la seconde est la L1loss (afin d'obtenir le contexte générale de l'image).
 
 ### Résultats
-![Alt text](https://github.com/ThomasMenard99/Image-reconstruction/blob/main/85007.png?raw=true "Title")
+![Alt text](https://github.com/ThomasMenard99/Image-reconstruction/blob/main/85007.png?raw=true "Results")
