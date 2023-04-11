@@ -22,7 +22,7 @@ Le discriminateur utilisé par la suite permet d'améliorer les images généré
 Dans la structure dite Adversarial GAN, le générateur et le discriminateur s'améliorent mutuellement en tentant de se tromper l'un l'autre. C'est cette architecture qui permet à notre réseau de reconstituer une grande partie de l'image.
 
 ##### Fonctions de coût
-Nous utilisons deux fonctions couts différentes afin d'obtenir un meilleur résultat.
+Nous utilisons deux fonctions coûts différentes afin d'obtenir un meilleur résultat.
 La première fonction de cout est la MSE loss (pour obtenir des images plus proches de la réalité), la seconde est la L1 loss (afin d'obtenir le contexte général de l'image). La pondération entre ces deux loss est issue des données de l'article de Pathak et al, et de 99,9% d'importance pour la L1 loss contre 0,01% pour la MSE loss.
 
 ### Résultats
