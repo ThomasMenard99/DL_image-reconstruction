@@ -27,3 +27,6 @@ La première fonction de cout est la MSE loss (pour obtenir des images plus proc
 
 ### Résultats
 ![Alt text](https://github.com/ThomasMenard99/Image-reconstruction/blob/main/85007.png?raw=true "Results")
+
+
+### Note : 18/20
